@@ -13,10 +13,10 @@ Once you've downloaded Play.py
 2. To Execute: 
    - python Play.py using a commond prompt or an Editor with terminal.
 
-3. How to Play
+3. How to Play:
    -To Produce a number Press 'n' on your Keyboard 
    -To See all the numbers that were produced press 'n'
-   - To Quit press 'q'
+   -To Quit press 'q'
    
 How I made this:
 Using the random library I produce a random numbers list that ranges between 1-99 (including 1 and 99).
